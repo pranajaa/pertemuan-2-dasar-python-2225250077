@@ -30,6 +30,8 @@ Materi yang dipraktikkan kali ini meliputi variabel, konstanta, tipe data, input
    - Menghitung perubahan koordinat (dx dan dy).
    - Menghitung jarak antara dua titik.
    - Menghitung titik tengah antara dua titik.
+## File kuis
+File ini berisi jawaban dari kuis yang diberikan di bahan ajar pertemuan 02
 
 # Cara menjalankan program
 Program dapat dijalankan menggunakan Terminal pada VSCode
